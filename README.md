@@ -12,5 +12,5 @@ Perplexity is the measure of quality of language models (basically how many trie
 
 All other projects are little python scripts I made while learning in FreeCodeCamp
 
-
+Folder project 2 has the second project and outside of that folder is my first project, sorry for the messy organization!
 
